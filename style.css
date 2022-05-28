@@ -1,0 +1,39 @@
+.divs{
+    background-color: white;
+    width: 600px;
+    height: 200px;
+    padding: 30px;
+    border-radius: 30px;
+    border: 2px ridge blue;
+}
+body{
+    background-color: rgb(134, 195, 255) !important;
+    padding: 15px;
+}
+button{
+    width:300px;
+    font-size: 30px !important; 
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+h2{
+    display: inline;
+}
+span{
+    font-size: 25px;
+}
